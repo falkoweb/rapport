@@ -33,6 +33,21 @@ content_page1 = [
     <h3>Objet : Assasinat du marquis</h3>
     <p>Durant ce jour, nous avons vécu un jour tragique. En effet le marquis a été assasiné par un membre du culte du mur infiltré à une fête organisé par plusieurs nobles. L'homme a été abbatus et j'ai trainé le corps jusqu'à l'infirmerie de la caserne. Une autopsie a été effectué sur le corps par l'adjudant Erley Engelhart.</p> 
 
+    <br>
+
+    <img
+    src="public/img/sit.png"
+    class="lazyload"
+    alt=""
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);"
+    width="1464"
+    height="982"
+    data-sizes="auto">
+
+
+    <br>
+    <br>
+
     <button onclick="PageSuivante(2)">Page Précedente</button></div>
     `,
 ];
