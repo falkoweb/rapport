@@ -28,7 +28,12 @@ content_page1 = [
         <button onclick="PageSuivante(1)">Page Précedente</button></div>
     `,
 
-    `<button onclick="PageSuivante(2)">Page Précedente</button></div>
+    `
+    <h3><strong>15 Février 788</strong></h3>
+    <h3>Objet : Assasinat du marquis</h3>
+    <p>Durant ce jour, nous avons vécu un jour tragique. En effet le marquis a été assasiné par un membre du culte du mur infiltré à une fête organisé par plusieurs nobles. L'homme a été abbatus et j'ai trainé le corps jusqu'à l'infirmerie de la caserne. Une autopsie a été effectué sur le corps par l'adjudant Erley Engelhart.</p> 
+
+    <button onclick="PageSuivante(2)">Page Précedente</button></div>
     `,
 ];
 content_page2 = [
